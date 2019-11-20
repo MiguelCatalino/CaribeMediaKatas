@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VocalCounterTest", "VocalCounterTest\VocalCounterTest.csproj", "{2CC4C29A-23F5-4A1A-B292-7FA0E752A4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VocalCounter", "VocalCounter\VocalCounter.csproj", "{D037E752-4E13-465F-A7EF-FC36EB591F19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{50800FA3-A9C5-4BF9-BA36-7D105F5CCA6F}"
+	ProjectSection(SolutionItems) = preProject
+		JS\Fizzbuzz.js = JS\Fizzbuzz.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC4C29A-23F5-4A1A-B292-7FA0E752A4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC4C29A-23F5-4A1A-B292-7FA0E752A4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC4C29A-23F5-4A1A-B292-7FA0E752A4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC4C29A-23F5-4A1A-B292-7FA0E752A4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D037E752-4E13-465F-A7EF-FC36EB591F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D037E752-4E13-465F-A7EF-FC36EB591F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D037E752-4E13-465F-A7EF-FC36EB591F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D037E752-4E13-465F-A7EF-FC36EB591F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23CDAE0B-68FB-45B1-A8E5-BCA8BF641BCF}
+	EndGlobalSection
+EndGlobal
